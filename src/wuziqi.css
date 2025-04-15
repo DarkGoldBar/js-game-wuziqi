@@ -1,0 +1,17 @@
+svg {
+  border: 1px black solid;
+}
+
+.grid line {
+  stroke: #ccc;
+}
+
+.qizi:hover {
+  stroke: blue;
+  stroke-width: 2px;
+}
+
+.qizi.placed {
+  stroke: black;
+  stroke-width: 1px;
+}
